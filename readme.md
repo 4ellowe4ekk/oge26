@@ -1,1 +1,1 @@
-Here I will post a code about the last task of the OGE
+Here I will post a code of the last task of the OGE
