@@ -3,15 +3,15 @@ itog = 'NO'
 m = 0
 
 for i in range(n):
-	s = int(input("Введите скорость: "))
+	v = int(input("Введите скорость: "))
 
 	if 1 < n < 30:
-		if 1 < s < 300:
-			if s < 30:
+		if 1 < v < 300:
+			if v < 30:
 				itog = 'YES'	
 
-	if s > m:
-		m = s
+	if v > m:
+		m = v
 
 
 print(m)
